@@ -4,6 +4,13 @@ An intelligent fraud detection framework that combines Artificial Intelligence (
 
 ---
 
+Live Demo
+
+Try the application here:
+
+https://mithlesh55-real-time-fraud-detection-system-fraud-v0xrju.streamlit.app
+
+
 Project Overview
 
 Financial fraud is becoming increasingly sophisticated in modern digital ecosystems. Traditional fraud detection methods often fail to provide transparent and explainable decisions.
