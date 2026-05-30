@@ -221,6 +221,12 @@ Symbiosis Institute of Technology, Pune, India
 GitHub:
 https://github.com/MITHLESH55
 
+Linkedin:
+https://www.linkedin.com/in/mithleshyadav977/
+
+Live Demo: 
+https://mithlesh55-real-time-fraud-detection-system-fraud-v0xrju.streamlit.app
+
 ---
 
 Research Contribution
